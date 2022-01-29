@@ -1,5 +1,4 @@
-### Opa! eu sou o filipedev8
-
+### Opa! eu sou o filipedev
 
 - 🌱 Hoje estou estudando front-end
 - 👏 focado em React
