@@ -20,6 +20,6 @@
   <img align="center" alt="SrHenry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SrHenry-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
-  <img align="right" alt="SrHenry-pic" height="150" style="border-radius: 150px;" src="https://cdn.discordapp.com/attachments/871853623536136313/936452090757263360/IMG_3423.jpg" rounded/>
+  <img align="right" alt="SrHenry-pic" height="150" style="border-radius: 150px;" src="https://cdn.discordapp.com/attachments/945509539871092796/945511136458067998/unknown.png" rounded/>
 </div>
   
