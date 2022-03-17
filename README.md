@@ -1,4 +1,4 @@
-### Opa! eu sou o filipedev
+### Hello Word! Eu Sou filipedev
 
 - 🌱 Hoje estou estudando front-end
 - 👏 focado em React
