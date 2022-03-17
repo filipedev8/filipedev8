@@ -11,7 +11,7 @@
   <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api/top-langs/?username=filipedev8&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## Tecnologias
+## My Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="SrHenry-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
