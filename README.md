@@ -1,4 +1,4 @@
-### Hello Word! Eu Sou filipedev
+### Hi , I'm Filipe Rodrigues
 
 - 🌱 Hoje estou estudando front-end
 - 😄 #BuildTheFuture
