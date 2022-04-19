@@ -1,6 +1,6 @@
 ### 👋 Hi , I'm Filipe Rodrigues
 
-- 🌱 Hoje estou estudando front-end
+- 💻 Today I'm studying frontend
 - 😄 #BuildTheFuture
 
 
