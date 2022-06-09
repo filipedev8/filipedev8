@@ -1,23 +1,32 @@
-### 👋 Olá, sou Filipe!
+## Hi, I'm Filipe 
+<img  src="https://img.shields.io/github/followers/filipedev8.svg?style=social&label=Follow&maxAge=2592000" align="left" /> <br/>
 
-- 🔭 Atualmente sou Front-end Developer
-- 🌱 Estou sempre estudando JavaScript, TypeScript, ReactJs, NodeJS
-- 💬 Pergunte-me sobre Linux 🐧 ou macOS 🍎
+I'm currently studying to be a **Javascript Front-end Developer**. I started programming with <a href="https://www.rocketseat.com.br">rocketseat</a> courses in 2021 and since then I intend to evolve every day.
+Currently studying new concepts to improve my knowledge. Everything I'm updating, I'm implementing in my work as a front-end developer.
 
 
-<div align="center">
-  <!-- <a href="https://github.com/filipedev8"> -->
-  <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api?username=filipedev8&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api/top-langs/?username=filipedev8&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+```typescript
+const me = {
+    name: 'Filipe Rodrigues',
+    age: 16,
+    skills: ['JavaScript', 'HTML', 'CSS', 'React'],
+    
+    getCurrentLearning: () => {
+        return 'Vue.Js Node.Js';
+    }
+}
 
-## 🛠 Tecnologias
+export default me;
+```
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="SrHenry-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="SrHenry-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="SrHenry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="SrHenry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SrHenry-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
-  
+### Front end development: <br>
+#### Front-end ( I love ❤️ )
+<img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+<img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+<img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+<img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+
+#### Get in Touch ⤵️
+
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:eulerfilipe8@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([mailto:eulerfilipe8@gmail.com](https://www.linkedin.com/in/eulerfilipe/))
