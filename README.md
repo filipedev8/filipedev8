@@ -29,4 +29,4 @@ export default me;
 #### Get in Touch ⤵️
 
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:eulerfilipe8@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([mailto:eulerfilipe8@gmail.com](https://www.linkedin.com/in/eulerfilipe/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eulerfilipe/)
