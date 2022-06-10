@@ -9,7 +9,7 @@ Currently studying new concepts to improve my knowledge. Everything I'm updating
 const me = {
     name: 'Filipe Rodrigues',
     age: 16,
-    skills: ['JavaScript', 'HTML', 'CSS',],
+    skills: ['JavaScript', 'HTML', 'CSS'],
     
     getCurrentLearning: () => {
         return 'React Node.Js';
